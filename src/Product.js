@@ -17,7 +17,6 @@ function Product({title,image,price,rating})  {
           <div className="product__rating">
              
              <p>⭐</p>
-             
               
           </div>
           <img
